@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="homework" href="homework.css">
+    <title>homework</title>
+</head>
+<body bgcolor="#BCF5A9">
+<center> <h1> Meine Fun-Page</h1>
+<p><font color="#5F04B4"; size="30">Willkommen auf meiner Seite!</font></p>
+    <p> Hier steht bald sehr viel Fließtext. </p> <br>
+</center>
+<br>
+
+    <p> Hallo. Ich bin ein Button. </p> <button> Klick mich an </button>
+<p> Na, was suchst du hier? </p> <input type="text" name="suchen"
+<br><center><h2>Ich suche hier nach Nüssen!</h2>
+<img src="eichhörnchen.jpg">
+
+<p> Essbare Nüsse </p> <img src="nüsse.jpg">
+<p> Kopfnüsse </p> <img src="merkel.jpg">
+
+<h2>Ich suche hier nicht nach Nüssen folgender Art:</h2>
+
+    </br>
+
+<ol>
+    <li>Eier</li>
+    <img src="eier.jpg">
+    <li>Werbung von Nestle-Frühstücksflocken</li> <img src="werbung.png">
+    <li>"A-Nüsse"</li> <img src="trump.jpg"; size="10">
+</ol>
+    <p> Na ja... Besser, du benutzt eine seriöse Suchmaschine anstatt dieser Seite. Ich empfehle: </p>
+    <table bgcolor="#e3f2d">
+
+<tr>
+    <td><a href="https://www.google.com">Den Allrounder: GOOGLE</td>
+</tr>
+<tr>
+    <td><a href="https://www.ecosia.org">Die umweltfreundliche Variante: ECOSIA</td>
+</tr>
+<tr>
+    <td><a href="https://www.duckduckgo.com">Die sichere Variante: DUCK DUCK GO</td>
+</tr>
+
+</table>
+</center>
+</body>
+</html>
